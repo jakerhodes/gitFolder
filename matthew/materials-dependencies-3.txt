@@ -1,0 +1,12 @@
+    package                    |            build
+    ---------------------------|-----------------
+    _py-xgboost-mutex-2.0      |            cpu_0           8 KB  conda-forge
+    certifi-2019.11.28         |   py38h32f6830_1         149 KB  conda-forge
+    libxgboost-1.0.2           |       he1b5a44_0         2.8 MB  conda-forge
+    openssl-1.1.1e             |       h516909a_0         2.1 MB  conda-forge
+    py-xgboost-1.0.2           |   py38h32f6830_0          95 KB  conda-forge
+    python_abi-3.8             |           1_cp38           4 KB  conda-forge
+    xgboost-1.0.2              |   py38h950e882_0          11 KB  conda-forge
+    ------------------------------------------------------------
+                                           Total:         5.2 MB
+
