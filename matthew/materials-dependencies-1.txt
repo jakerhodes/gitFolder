@@ -1,0 +1,54 @@
+    package                    |            build
+    ---------------------------|-----------------
+    backcall-0.1.0             |           py38_0          21 KB
+    bleach-3.1.0               |             py_0         111 KB
+    certifi-2019.11.28         |           py38_1         157 KB
+    cycler-0.10.0              |           py38_0          14 KB
+    entrypoints-0.3            |           py38_0          10 KB
+    importlib_metadata-1.5.0   |           py38_0          48 KB
+    ipykernel-5.1.4            |   py38h39e3cac_0         172 KB
+    ipython-7.13.0             |   py38h5ca1d4c_0         979 KB
+    ipython_genutils-0.2.0     |           py38_0          40 KB
+    jedi-0.16.0                |           py38_0         757 KB
+    jsonschema-3.2.0           |           py38_0          96 KB
+    jupyter_client-6.0.0       |             py_0          80 KB
+    jupyter_core-4.6.1         |           py38_0          67 KB
+    kiwisolver-1.0.1           |   py38he6710b0_0          86 KB
+    markupsafe-1.1.1           |   py38h7b6447c_0          33 KB
+    matplotlib-3.1.3           |           py38_0          21 KB
+    matplotlib-base-3.1.3      |   py38hef1b27d_0         5.0 MB
+    mistune-0.8.4              |py38h7b6447c_1000          55 KB
+    mkl-service-2.3.0          |   py38he904b0f_0          62 KB
+    mkl_fft-1.0.15             |   py38ha843d7b_0         159 KB
+    mkl_random-1.1.0           |   py38h962f231_0         340 KB
+    nbconvert-5.6.1            |           py38_0         456 KB
+    notebook-6.0.3             |           py38_0         4.0 MB
+    numpy-1.18.1               |   py38h4f9e942_0           5 KB
+    numpy-base-1.18.1          |   py38hde5b4d6_1         4.2 MB
+    openssl-1.1.1e             |       h7b6447c_0         2.5 MB
+    pandas-1.0.3               |   py38h0573a6f_0         8.8 MB
+    pandocfilters-1.4.2        |           py38_1          13 KB
+    parso-0.6.2                |             py_0          70 KB
+    pexpect-4.8.0              |           py38_0          81 KB
+    pickleshare-0.7.5          |        py38_1000          13 KB
+    pip-20.0.2                 |           py38_1         1.7 MB
+    ptyprocess-0.6.0           |           py38_0          23 KB
+    pygments-2.6.1             |             py_0         654 KB
+    pyqt-5.9.2                 |   py38h05f1152_4         4.5 MB
+    pyrsistent-0.15.7          |   py38h7b6447c_0          95 KB
+    python-3.8.1               |       h0371630_1        49.5 MB
+    pyzmq-18.1.1               |   py38he6710b0_0         465 KB
+    scipy-1.4.1                |   py38h0b6359f_0        14.8 MB
+    seaborn-0.10.0             |             py_0         163 KB
+    send2trash-1.5.0           |           py38_0          17 KB
+    setuptools-46.1.1          |           py38_0         513 KB
+    sip-4.19.13                |   py38he6710b0_0         277 KB
+    six-1.14.0                 |           py38_0          27 KB
+    terminado-0.8.3            |           py38_0          26 KB
+    tornado-6.0.4              |   py38h7b6447c_1         603 KB
+    traitlets-4.3.3            |           py38_0         138 KB
+    webencodings-0.5.1         |           py38_1          20 KB
+    wheel-0.34.2               |           py38_0          51 KB
+    ------------------------------------------------------------
+                                           Total:       101.8 MB
+
