@@ -1,0 +1,29 @@
+  added / updated specs:
+    - jupyter
+    - keras
+    - matplotlib
+    - numpy
+    - pandas
+    - python=3.7
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    idna-2.9                   |             py_1          49 KB
+    jedi-0.16.0                |           py37_1         769 KB
+    jupyter_client-6.1.0       |             py_0          81 KB
+    pandas-1.0.3               |   py37h0573a6f_0         8.6 MB
+    prompt-toolkit-3.0.4       |             py_0         244 KB
+    prompt_toolkit-3.0.4       |                0          11 KB
+    pycparser-2.20             |             py_0          92 KB
+    python-3.7.7               |hcf32534_0_cpython        45.0 MB
+    pyyaml-5.3.1               |   py37h7b6447c_0         181 KB
+    qtconsole-4.7.2            |             py_0          94 KB
+    readline-8.0               |       h7b6447c_0         356 KB
+    setuptools-46.1.1          |           py37_0         512 KB
+    wrapt-1.12.1               |   py37h7b6447c_1          49 KB
+    ------------------------------------------------------------
+                                           Total:        56.0 MB
+
