@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582037543377.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3116960664",
+    "id" : "609BF5B7",
+    "lastKnownWriteTime" : 1582203259,
+    "last_content_update" : 1582203259545,
+    "path" : "G:/My Drive/AAA USU Phd ALL/Spring 2020/CS 6665/Project/rcode/useGlmnet.R",
+    "project_path" : "useGlmnet.R",
+    "properties" : {
+        "cursorPosition" : "17,51",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

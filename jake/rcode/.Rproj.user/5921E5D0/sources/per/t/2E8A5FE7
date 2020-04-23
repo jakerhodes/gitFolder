@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586372819254.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3390594705",
+    "id" : "2E8A5FE7",
+    "lastKnownWriteTime" : 1586473869,
+    "last_content_update" : 1586473869,
+    "path" : "G:/My Drive/AAA USU Phd ALL/Spring 2020/CS 6665/Project/rcode/validation.R",
+    "project_path" : "validation.R",
+    "properties" : {
+        "cursorPosition" : "115,63",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

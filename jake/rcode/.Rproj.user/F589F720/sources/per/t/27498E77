@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586473894724.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1373247005",
+    "id" : "27498E77",
+    "lastKnownWriteTime" : 1586634661,
+    "last_content_update" : 1586634661427,
+    "path" : "G:/My Drive/AAA USU Phd ALL/Spring 2020/CS 6665/Project/rcode/transformed_regression.R",
+    "project_path" : "transformed_regression.R",
+    "properties" : {
+        "cursorPosition" : "116,0",
+        "scrollLine" : "105"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

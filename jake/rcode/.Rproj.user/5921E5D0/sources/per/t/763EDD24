@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585597888968.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "763EDD24",
+    "lastKnownWriteTime" : 2141856336088,
+    "last_content_update" : 1585597888968,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "f47be5935b544f84994bb0e8d21b7cfa",
+        "name" : "gbm_train",
+        "title" : "gbm_train"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}
